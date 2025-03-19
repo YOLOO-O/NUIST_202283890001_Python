@@ -1,1 +1,5 @@
 # NUIST_202283890001_Python
+
+# NAME: Liu Zibo(刘子博)
+# ID: 20110005@mail.wit.ie(SETU)
+# ID: 202283890001(NUIST)
